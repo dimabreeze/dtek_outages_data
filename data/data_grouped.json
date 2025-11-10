@@ -11,6 +11,12 @@
             "slots": [
               {
                 "begin": "00:00",
+                "end": "01:00",
+                "status": "yes",
+                "statusFull": "Світло є"
+              },
+              {
+                "begin": "01:00",
                 "end": "02:00",
                 "status": "no",
                 "statusFull": "Світла немає"
