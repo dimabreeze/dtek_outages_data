@@ -163,7 +163,7 @@
       "mfirst": "Світла можливо не буде перші 30 хв.",
       "msecond": "Світла можливо не буде другі 30 хв"
     },
-    "updateFact": "10.11.2025 17:33"
+    "updateFact": "10.11.2025 21:12"
   },
   "fact": {
     "data": {
@@ -488,21 +488,21 @@
           "3": "yes",
           "4": "yes",
           "5": "yes",
-          "6": "yes",
-          "7": "yes",
-          "8": "yes",
-          "9": "yes",
-          "10": "yes",
-          "11": "yes",
-          "12": "yes",
-          "13": "yes",
+          "6": "second",
+          "7": "no",
+          "8": "no",
+          "9": "no",
+          "10": "no",
+          "11": "no",
+          "12": "no",
+          "13": "no",
           "14": "yes",
           "15": "yes",
           "16": "yes",
-          "17": "yes",
-          "18": "yes",
-          "19": "yes",
-          "20": "yes",
+          "17": "no",
+          "18": "no",
+          "19": "no",
+          "20": "no",
           "21": "yes",
           "22": "yes",
           "23": "yes",
@@ -514,21 +514,21 @@
           "3": "yes",
           "4": "yes",
           "5": "yes",
-          "6": "yes",
-          "7": "yes",
-          "8": "yes",
-          "9": "yes",
-          "10": "yes",
-          "11": "yes",
-          "12": "yes",
-          "13": "yes",
+          "6": "second",
+          "7": "no",
+          "8": "no",
+          "9": "no",
+          "10": "no",
+          "11": "no",
+          "12": "no",
+          "13": "no",
           "14": "yes",
           "15": "yes",
           "16": "yes",
-          "17": "yes",
-          "18": "yes",
-          "19": "yes",
-          "20": "yes",
+          "17": "no",
+          "18": "no",
+          "19": "no",
+          "20": "no",
           "21": "yes",
           "22": "yes",
           "23": "yes",
@@ -540,23 +540,23 @@
           "3": "yes",
           "4": "yes",
           "5": "yes",
-          "6": "yes",
-          "7": "yes",
-          "8": "yes",
-          "9": "yes",
-          "10": "yes",
+          "6": "second",
+          "7": "no",
+          "8": "no",
+          "9": "no",
+          "10": "first",
           "11": "yes",
           "12": "yes",
           "13": "yes",
           "14": "yes",
           "15": "yes",
           "16": "yes",
-          "17": "yes",
-          "18": "yes",
-          "19": "yes",
-          "20": "yes",
-          "21": "yes",
-          "22": "yes",
+          "17": "no",
+          "18": "no",
+          "19": "no",
+          "20": "no",
+          "21": "no",
+          "22": "first",
           "23": "yes",
           "24": "yes"
         },
@@ -566,242 +566,242 @@
           "3": "yes",
           "4": "yes",
           "5": "yes",
-          "6": "yes",
-          "7": "yes",
-          "8": "yes",
-          "9": "yes",
-          "10": "yes",
-          "11": "yes",
-          "12": "yes",
-          "13": "yes",
+          "6": "second",
+          "7": "no",
+          "8": "no",
+          "9": "no",
+          "10": "no",
+          "11": "no",
+          "12": "no",
+          "13": "no",
           "14": "yes",
           "15": "yes",
           "16": "yes",
-          "17": "yes",
-          "18": "yes",
-          "19": "yes",
-          "20": "yes",
-          "21": "yes",
-          "22": "yes",
+          "17": "no",
+          "18": "no",
+          "19": "no",
+          "20": "no",
+          "21": "no",
+          "22": "first",
           "23": "yes",
           "24": "yes"
         },
         "GPV3.1": {
-          "1": "yes",
-          "2": "yes",
-          "3": "yes",
+          "1": "no",
+          "2": "no",
+          "3": "first",
           "4": "yes",
           "5": "yes",
           "6": "yes",
           "7": "yes",
           "8": "yes",
           "9": "yes",
-          "10": "yes",
-          "11": "yes",
-          "12": "yes",
-          "13": "yes",
-          "14": "yes",
-          "15": "yes",
-          "16": "yes",
-          "17": "yes",
+          "10": "no",
+          "11": "no",
+          "12": "no",
+          "13": "no",
+          "14": "no",
+          "15": "no",
+          "16": "no",
+          "17": "first",
           "18": "yes",
           "19": "yes",
-          "20": "yes",
-          "21": "yes",
-          "22": "yes",
-          "23": "yes",
-          "24": "yes"
+          "20": "second",
+          "21": "no",
+          "22": "no",
+          "23": "no",
+          "24": "first"
         },
         "GPV3.2": {
-          "1": "yes",
-          "2": "yes",
-          "3": "yes",
+          "1": "no",
+          "2": "no",
+          "3": "first",
           "4": "yes",
           "5": "yes",
           "6": "yes",
           "7": "yes",
           "8": "yes",
           "9": "yes",
-          "10": "yes",
-          "11": "yes",
-          "12": "yes",
-          "13": "yes",
-          "14": "yes",
-          "15": "yes",
-          "16": "yes",
-          "17": "yes",
+          "10": "no",
+          "11": "no",
+          "12": "no",
+          "13": "no",
+          "14": "no",
+          "15": "no",
+          "16": "no",
+          "17": "first",
           "18": "yes",
           "19": "yes",
-          "20": "yes",
-          "21": "yes",
-          "22": "yes",
-          "23": "yes",
-          "24": "yes"
+          "20": "second",
+          "21": "no",
+          "22": "no",
+          "23": "no",
+          "24": "first"
         },
         "GPV4.1": {
-          "1": "yes",
-          "2": "yes",
-          "3": "yes",
+          "1": "no",
+          "2": "no",
+          "3": "first",
           "4": "yes",
           "5": "yes",
           "6": "yes",
           "7": "yes",
           "8": "yes",
           "9": "yes",
-          "10": "yes",
-          "11": "yes",
-          "12": "yes",
-          "13": "yes",
-          "14": "yes",
-          "15": "yes",
-          "16": "yes",
-          "17": "yes",
+          "10": "no",
+          "11": "no",
+          "12": "no",
+          "13": "no",
+          "14": "no",
+          "15": "no",
+          "16": "no",
+          "17": "first",
           "18": "yes",
           "19": "yes",
-          "20": "yes",
-          "21": "yes",
-          "22": "yes",
-          "23": "yes",
-          "24": "yes"
+          "20": "second",
+          "21": "no",
+          "22": "no",
+          "23": "no",
+          "24": "first"
         },
         "GPV4.2": {
-          "1": "yes",
-          "2": "yes",
-          "3": "yes",
+          "1": "no",
+          "2": "no",
+          "3": "first",
           "4": "yes",
           "5": "yes",
           "6": "yes",
           "7": "yes",
           "8": "yes",
           "9": "yes",
-          "10": "yes",
-          "11": "yes",
-          "12": "yes",
-          "13": "yes",
+          "10": "no",
+          "11": "no",
+          "12": "no",
+          "13": "no",
           "14": "yes",
           "15": "yes",
           "16": "yes",
           "17": "yes",
           "18": "yes",
           "19": "yes",
-          "20": "yes",
-          "21": "yes",
-          "22": "yes",
-          "23": "yes",
-          "24": "yes"
+          "20": "second",
+          "21": "no",
+          "22": "no",
+          "23": "no",
+          "24": "first"
         },
         "GPV5.1": {
           "1": "yes",
           "2": "yes",
-          "3": "yes",
-          "4": "yes",
-          "5": "yes",
-          "6": "yes",
+          "3": "no",
+          "4": "no",
+          "5": "no",
+          "6": "no",
           "7": "yes",
           "8": "yes",
-          "9": "yes",
-          "10": "yes",
+          "9": "no",
+          "10": "first",
           "11": "yes",
           "12": "yes",
-          "13": "yes",
-          "14": "yes",
-          "15": "yes",
-          "16": "yes",
-          "17": "yes",
-          "18": "yes",
-          "19": "yes",
-          "20": "yes",
+          "13": "second",
+          "14": "no",
+          "15": "no",
+          "16": "no",
+          "17": "no",
+          "18": "no",
+          "19": "no",
+          "20": "no",
           "21": "yes",
           "22": "yes",
           "23": "yes",
-          "24": "yes"
+          "24": "no"
         },
         "GPV5.2": {
           "1": "yes",
           "2": "yes",
-          "3": "yes",
-          "4": "yes",
-          "5": "yes",
-          "6": "yes",
+          "3": "no",
+          "4": "no",
+          "5": "no",
+          "6": "no",
           "7": "yes",
           "8": "yes",
-          "9": "yes",
-          "10": "yes",
+          "9": "no",
+          "10": "first",
           "11": "yes",
           "12": "yes",
-          "13": "yes",
-          "14": "yes",
-          "15": "yes",
-          "16": "yes",
-          "17": "yes",
-          "18": "yes",
-          "19": "yes",
-          "20": "yes",
+          "13": "second",
+          "14": "no",
+          "15": "no",
+          "16": "no",
+          "17": "no",
+          "18": "no",
+          "19": "no",
+          "20": "no",
           "21": "yes",
           "22": "yes",
           "23": "yes",
-          "24": "yes"
+          "24": "no"
         },
         "GPV6.1": {
           "1": "yes",
           "2": "yes",
-          "3": "yes",
-          "4": "yes",
-          "5": "yes",
-          "6": "yes",
+          "3": "no",
+          "4": "no",
+          "5": "no",
+          "6": "no",
           "7": "yes",
           "8": "yes",
           "9": "yes",
           "10": "yes",
           "11": "yes",
           "12": "yes",
-          "13": "yes",
-          "14": "yes",
-          "15": "yes",
-          "16": "yes",
-          "17": "yes",
-          "18": "yes",
-          "19": "yes",
+          "13": "second",
+          "14": "no",
+          "15": "no",
+          "16": "no",
+          "17": "no",
+          "18": "no",
+          "19": "first",
           "20": "yes",
           "21": "yes",
           "22": "yes",
           "23": "yes",
-          "24": "yes"
+          "24": "no"
         },
         "GPV6.2": {
           "1": "yes",
           "2": "yes",
-          "3": "yes",
-          "4": "yes",
-          "5": "yes",
-          "6": "yes",
+          "3": "no",
+          "4": "no",
+          "5": "no",
+          "6": "no",
           "7": "yes",
           "8": "yes",
           "9": "yes",
           "10": "yes",
           "11": "yes",
           "12": "yes",
-          "13": "yes",
-          "14": "yes",
-          "15": "yes",
-          "16": "yes",
-          "17": "yes",
+          "13": "second",
+          "14": "no",
+          "15": "no",
+          "16": "no",
+          "17": "first",
           "18": "yes",
           "19": "yes",
           "20": "yes",
           "21": "yes",
           "22": "yes",
           "23": "yes",
-          "24": "yes"
+          "24": "no"
         }
       }
     },
-    "update": "10.11.2025 17:33",
+    "update": "10.11.2025 21:12",
     "today": 1762725600
   },
   "fact_parsed": [
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV1.1",
@@ -812,7 +812,7 @@
       "statusFull": "Світла немає"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV1.1",
@@ -823,7 +823,7 @@
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV1.1",
@@ -834,7 +834,7 @@
       "statusFull": "Світла немає"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV1.1",
@@ -845,7 +845,7 @@
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV1.1",
@@ -856,7 +856,7 @@
       "statusFull": "Світла немає"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV1.1",
@@ -867,7 +867,7 @@
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV1.2",
@@ -878,7 +878,7 @@
       "statusFull": "Світла немає"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV1.2",
@@ -889,7 +889,7 @@
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV1.2",
@@ -900,7 +900,7 @@
       "statusFull": "Світла немає"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV1.2",
@@ -911,7 +911,7 @@
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV1.2",
@@ -922,7 +922,7 @@
       "statusFull": "Світла немає"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV1.2",
@@ -933,7 +933,7 @@
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV2.1",
@@ -944,7 +944,7 @@
       "statusFull": "Світла немає"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV2.1",
@@ -955,7 +955,7 @@
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV2.1",
@@ -966,7 +966,7 @@
       "statusFull": "Світла немає"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV2.1",
@@ -977,7 +977,7 @@
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV2.1",
@@ -988,7 +988,7 @@
       "statusFull": "Світла немає"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV2.1",
@@ -999,7 +999,7 @@
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV2.2",
@@ -1010,7 +1010,7 @@
       "statusFull": "Світла немає"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV2.2",
@@ -1021,7 +1021,7 @@
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV2.2",
@@ -1032,7 +1032,7 @@
       "statusFull": "Світла немає"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV2.2",
@@ -1043,7 +1043,7 @@
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV2.2",
@@ -1054,7 +1054,7 @@
       "statusFull": "Світла немає"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV2.2",
@@ -1065,7 +1065,7 @@
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV3.1",
@@ -1076,7 +1076,7 @@
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV3.1",
@@ -1087,7 +1087,7 @@
       "statusFull": "Світла немає"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV3.1",
@@ -1098,7 +1098,7 @@
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV3.1",
@@ -1109,7 +1109,7 @@
       "statusFull": "Світла немає"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV3.1",
@@ -1120,7 +1120,7 @@
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV3.1",
@@ -1131,7 +1131,7 @@
       "statusFull": "Світла немає"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV3.2",
@@ -1142,7 +1142,7 @@
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV3.2",
@@ -1153,7 +1153,7 @@
       "statusFull": "Світла немає"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV3.2",
@@ -1164,7 +1164,7 @@
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV3.2",
@@ -1175,7 +1175,7 @@
       "statusFull": "Світла немає"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV3.2",
@@ -1186,7 +1186,7 @@
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV3.2",
@@ -1197,7 +1197,7 @@
       "statusFull": "Світла немає"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV4.1",
@@ -1208,7 +1208,7 @@
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV4.1",
@@ -1219,7 +1219,7 @@
       "statusFull": "Світла немає"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV4.1",
@@ -1230,7 +1230,7 @@
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV4.1",
@@ -1241,7 +1241,7 @@
       "statusFull": "Світла немає"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV4.1",
@@ -1252,7 +1252,7 @@
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV4.1",
@@ -1263,7 +1263,7 @@
       "statusFull": "Світла немає"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV4.2",
@@ -1274,7 +1274,7 @@
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV4.2",
@@ -1285,7 +1285,7 @@
       "statusFull": "Світла немає"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV4.2",
@@ -1296,7 +1296,7 @@
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV4.2",
@@ -1307,7 +1307,7 @@
       "statusFull": "Світла немає"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV4.2",
@@ -1318,7 +1318,7 @@
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV4.2",
@@ -1329,7 +1329,7 @@
       "statusFull": "Світла немає"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV5.1",
@@ -1340,7 +1340,7 @@
       "statusFull": "Світла немає"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV5.1",
@@ -1351,7 +1351,7 @@
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV5.1",
@@ -1362,7 +1362,7 @@
       "statusFull": "Світла немає"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV5.1",
@@ -1373,7 +1373,7 @@
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV5.1",
@@ -1384,7 +1384,7 @@
       "statusFull": "Світла немає"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV5.1",
@@ -1395,7 +1395,7 @@
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV5.2",
@@ -1406,7 +1406,7 @@
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV5.2",
@@ -1417,7 +1417,7 @@
       "statusFull": "Світла немає"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV5.2",
@@ -1428,7 +1428,7 @@
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV5.2",
@@ -1439,7 +1439,7 @@
       "statusFull": "Світла немає"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV5.2",
@@ -1450,7 +1450,7 @@
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV6.1",
@@ -1461,7 +1461,7 @@
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV6.1",
@@ -1472,7 +1472,7 @@
       "statusFull": "Світла немає"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV6.1",
@@ -1483,7 +1483,7 @@
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV6.1",
@@ -1494,7 +1494,7 @@
       "statusFull": "Світла немає"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV6.1",
@@ -1505,7 +1505,7 @@
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV6.2",
@@ -1516,7 +1516,7 @@
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV6.2",
@@ -1527,7 +1527,7 @@
       "statusFull": "Світла немає"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV6.2",
@@ -1538,7 +1538,7 @@
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV6.2",
@@ -1549,7 +1549,7 @@
       "statusFull": "Світла немає"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "10.11.2025",
       "groupKey": "GPV6.2",
@@ -1560,136 +1560,796 @@
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "11.11.2025",
       "groupKey": "GPV1.1",
       "groupName": "Черга 1.1",
       "begin": "00:00",
+      "end": "05:30",
+      "status": "yes",
+      "statusFull": "Світло є"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV1.1",
+      "groupName": "Черга 1.1",
+      "begin": "05:30",
+      "end": "13:00",
+      "status": "no",
+      "statusFull": "Світла немає"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV1.1",
+      "groupName": "Черга 1.1",
+      "begin": "13:00",
+      "end": "16:00",
+      "status": "yes",
+      "statusFull": "Світло є"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV1.1",
+      "groupName": "Черга 1.1",
+      "begin": "16:00",
+      "end": "20:00",
+      "status": "no",
+      "statusFull": "Світла немає"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV1.1",
+      "groupName": "Черга 1.1",
+      "begin": "20:00",
       "end": "24:00",
       "status": "yes",
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "11.11.2025",
       "groupKey": "GPV1.2",
       "groupName": "Черга 1.2",
       "begin": "00:00",
+      "end": "05:30",
+      "status": "yes",
+      "statusFull": "Світло є"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV1.2",
+      "groupName": "Черга 1.2",
+      "begin": "05:30",
+      "end": "13:00",
+      "status": "no",
+      "statusFull": "Світла немає"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV1.2",
+      "groupName": "Черга 1.2",
+      "begin": "13:00",
+      "end": "16:00",
+      "status": "yes",
+      "statusFull": "Світло є"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV1.2",
+      "groupName": "Черга 1.2",
+      "begin": "16:00",
+      "end": "20:00",
+      "status": "no",
+      "statusFull": "Світла немає"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV1.2",
+      "groupName": "Черга 1.2",
+      "begin": "20:00",
       "end": "24:00",
       "status": "yes",
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "11.11.2025",
       "groupKey": "GPV2.1",
       "groupName": "Черга 2.1",
       "begin": "00:00",
+      "end": "05:30",
+      "status": "yes",
+      "statusFull": "Світло є"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV2.1",
+      "groupName": "Черга 2.1",
+      "begin": "05:30",
+      "end": "09:30",
+      "status": "no",
+      "statusFull": "Світла немає"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV2.1",
+      "groupName": "Черга 2.1",
+      "begin": "09:30",
+      "end": "16:00",
+      "status": "yes",
+      "statusFull": "Світло є"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV2.1",
+      "groupName": "Черга 2.1",
+      "begin": "16:00",
+      "end": "21:30",
+      "status": "no",
+      "statusFull": "Світла немає"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV2.1",
+      "groupName": "Черга 2.1",
+      "begin": "21:30",
       "end": "24:00",
       "status": "yes",
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "11.11.2025",
       "groupKey": "GPV2.2",
       "groupName": "Черга 2.2",
       "begin": "00:00",
+      "end": "05:30",
+      "status": "yes",
+      "statusFull": "Світло є"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV2.2",
+      "groupName": "Черга 2.2",
+      "begin": "05:30",
+      "end": "13:00",
+      "status": "no",
+      "statusFull": "Світла немає"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV2.2",
+      "groupName": "Черга 2.2",
+      "begin": "13:00",
+      "end": "16:00",
+      "status": "yes",
+      "statusFull": "Світло є"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV2.2",
+      "groupName": "Черга 2.2",
+      "begin": "16:00",
+      "end": "21:30",
+      "status": "no",
+      "statusFull": "Світла немає"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV2.2",
+      "groupName": "Черга 2.2",
+      "begin": "21:30",
       "end": "24:00",
       "status": "yes",
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "11.11.2025",
       "groupKey": "GPV3.1",
       "groupName": "Черга 3.1",
       "begin": "00:00",
+      "end": "02:30",
+      "status": "no",
+      "statusFull": "Світла немає"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV3.1",
+      "groupName": "Черга 3.1",
+      "begin": "02:30",
+      "end": "09:00",
+      "status": "yes",
+      "statusFull": "Світло є"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV3.1",
+      "groupName": "Черга 3.1",
+      "begin": "09:00",
+      "end": "16:30",
+      "status": "no",
+      "statusFull": "Світла немає"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV3.1",
+      "groupName": "Черга 3.1",
+      "begin": "16:30",
+      "end": "19:30",
+      "status": "yes",
+      "statusFull": "Світло є"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV3.1",
+      "groupName": "Черга 3.1",
+      "begin": "19:30",
+      "end": "23:30",
+      "status": "no",
+      "statusFull": "Світла немає"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV3.1",
+      "groupName": "Черга 3.1",
+      "begin": "23:30",
       "end": "24:00",
       "status": "yes",
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "11.11.2025",
       "groupKey": "GPV3.2",
       "groupName": "Черга 3.2",
       "begin": "00:00",
+      "end": "02:30",
+      "status": "no",
+      "statusFull": "Світла немає"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV3.2",
+      "groupName": "Черга 3.2",
+      "begin": "02:30",
+      "end": "09:00",
+      "status": "yes",
+      "statusFull": "Світло є"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV3.2",
+      "groupName": "Черга 3.2",
+      "begin": "09:00",
+      "end": "16:30",
+      "status": "no",
+      "statusFull": "Світла немає"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV3.2",
+      "groupName": "Черга 3.2",
+      "begin": "16:30",
+      "end": "19:30",
+      "status": "yes",
+      "statusFull": "Світло є"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV3.2",
+      "groupName": "Черга 3.2",
+      "begin": "19:30",
+      "end": "23:30",
+      "status": "no",
+      "statusFull": "Світла немає"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV3.2",
+      "groupName": "Черга 3.2",
+      "begin": "23:30",
       "end": "24:00",
       "status": "yes",
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "11.11.2025",
       "groupKey": "GPV4.1",
       "groupName": "Черга 4.1",
       "begin": "00:00",
+      "end": "02:30",
+      "status": "no",
+      "statusFull": "Світла немає"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV4.1",
+      "groupName": "Черга 4.1",
+      "begin": "02:30",
+      "end": "09:00",
+      "status": "yes",
+      "statusFull": "Світло є"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV4.1",
+      "groupName": "Черга 4.1",
+      "begin": "09:00",
+      "end": "16:30",
+      "status": "no",
+      "statusFull": "Світла немає"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV4.1",
+      "groupName": "Черга 4.1",
+      "begin": "16:30",
+      "end": "19:30",
+      "status": "yes",
+      "statusFull": "Світло є"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV4.1",
+      "groupName": "Черга 4.1",
+      "begin": "19:30",
+      "end": "23:30",
+      "status": "no",
+      "statusFull": "Світла немає"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV4.1",
+      "groupName": "Черга 4.1",
+      "begin": "23:30",
       "end": "24:00",
       "status": "yes",
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "11.11.2025",
       "groupKey": "GPV4.2",
       "groupName": "Черга 4.2",
       "begin": "00:00",
+      "end": "02:30",
+      "status": "no",
+      "statusFull": "Світла немає"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV4.2",
+      "groupName": "Черга 4.2",
+      "begin": "02:30",
+      "end": "09:00",
+      "status": "yes",
+      "statusFull": "Світло є"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV4.2",
+      "groupName": "Черга 4.2",
+      "begin": "09:00",
+      "end": "13:00",
+      "status": "no",
+      "statusFull": "Світла немає"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV4.2",
+      "groupName": "Черга 4.2",
+      "begin": "13:00",
+      "end": "19:30",
+      "status": "yes",
+      "statusFull": "Світло є"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV4.2",
+      "groupName": "Черга 4.2",
+      "begin": "19:30",
+      "end": "23:30",
+      "status": "no",
+      "statusFull": "Світла немає"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV4.2",
+      "groupName": "Черга 4.2",
+      "begin": "23:30",
       "end": "24:00",
       "status": "yes",
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "11.11.2025",
       "groupKey": "GPV5.1",
       "groupName": "Черга 5.1",
       "begin": "00:00",
-      "end": "24:00",
+      "end": "02:00",
       "status": "yes",
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV5.1",
+      "groupName": "Черга 5.1",
+      "begin": "02:00",
+      "end": "06:00",
+      "status": "no",
+      "statusFull": "Світла немає"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV5.1",
+      "groupName": "Черга 5.1",
+      "begin": "06:00",
+      "end": "08:00",
+      "status": "yes",
+      "statusFull": "Світло є"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV5.1",
+      "groupName": "Черга 5.1",
+      "begin": "08:00",
+      "end": "09:30",
+      "status": "no",
+      "statusFull": "Світла немає"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV5.1",
+      "groupName": "Черга 5.1",
+      "begin": "09:30",
+      "end": "12:30",
+      "status": "yes",
+      "statusFull": "Світло є"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV5.1",
+      "groupName": "Черга 5.1",
+      "begin": "12:30",
+      "end": "20:00",
+      "status": "no",
+      "statusFull": "Світла немає"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV5.1",
+      "groupName": "Черга 5.1",
+      "begin": "20:00",
+      "end": "23:00",
+      "status": "yes",
+      "statusFull": "Світло є"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV5.1",
+      "groupName": "Черга 5.1",
+      "begin": "23:00",
+      "end": "24:00",
+      "status": "no",
+      "statusFull": "Світла немає"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "11.11.2025",
       "groupKey": "GPV5.2",
       "groupName": "Черга 5.2",
       "begin": "00:00",
-      "end": "24:00",
+      "end": "02:00",
       "status": "yes",
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV5.2",
+      "groupName": "Черга 5.2",
+      "begin": "02:00",
+      "end": "06:00",
+      "status": "no",
+      "statusFull": "Світла немає"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV5.2",
+      "groupName": "Черга 5.2",
+      "begin": "06:00",
+      "end": "08:00",
+      "status": "yes",
+      "statusFull": "Світло є"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV5.2",
+      "groupName": "Черга 5.2",
+      "begin": "08:00",
+      "end": "09:30",
+      "status": "no",
+      "statusFull": "Світла немає"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV5.2",
+      "groupName": "Черга 5.2",
+      "begin": "09:30",
+      "end": "12:30",
+      "status": "yes",
+      "statusFull": "Світло є"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV5.2",
+      "groupName": "Черга 5.2",
+      "begin": "12:30",
+      "end": "20:00",
+      "status": "no",
+      "statusFull": "Світла немає"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV5.2",
+      "groupName": "Черга 5.2",
+      "begin": "20:00",
+      "end": "23:00",
+      "status": "yes",
+      "statusFull": "Світло є"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV5.2",
+      "groupName": "Черга 5.2",
+      "begin": "23:00",
+      "end": "24:00",
+      "status": "no",
+      "statusFull": "Світла немає"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "11.11.2025",
       "groupKey": "GPV6.1",
       "groupName": "Черга 6.1",
       "begin": "00:00",
-      "end": "24:00",
+      "end": "02:00",
       "status": "yes",
       "statusFull": "Світло є"
     },
     {
-      "updatedOn": "2025-11-10T14:33:00.000Z",
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV6.1",
+      "groupName": "Черга 6.1",
+      "begin": "02:00",
+      "end": "06:00",
+      "status": "no",
+      "statusFull": "Світла немає"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV6.1",
+      "groupName": "Черга 6.1",
+      "begin": "06:00",
+      "end": "12:30",
+      "status": "yes",
+      "statusFull": "Світло є"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV6.1",
+      "groupName": "Черга 6.1",
+      "begin": "12:30",
+      "end": "18:30",
+      "status": "no",
+      "statusFull": "Світла немає"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV6.1",
+      "groupName": "Черга 6.1",
+      "begin": "18:30",
+      "end": "23:00",
+      "status": "yes",
+      "statusFull": "Світло є"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV6.1",
+      "groupName": "Черга 6.1",
+      "begin": "23:00",
+      "end": "24:00",
+      "status": "no",
+      "statusFull": "Світла немає"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
       "todayDate": "10.11.2025",
       "targetDate": "11.11.2025",
       "groupKey": "GPV6.2",
       "groupName": "Черга 6.2",
       "begin": "00:00",
-      "end": "24:00",
+      "end": "02:00",
       "status": "yes",
       "statusFull": "Світло є"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV6.2",
+      "groupName": "Черга 6.2",
+      "begin": "02:00",
+      "end": "06:00",
+      "status": "no",
+      "statusFull": "Світла немає"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV6.2",
+      "groupName": "Черга 6.2",
+      "begin": "06:00",
+      "end": "12:30",
+      "status": "yes",
+      "statusFull": "Світло є"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV6.2",
+      "groupName": "Черга 6.2",
+      "begin": "12:30",
+      "end": "16:30",
+      "status": "no",
+      "statusFull": "Світла немає"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV6.2",
+      "groupName": "Черга 6.2",
+      "begin": "16:30",
+      "end": "23:00",
+      "status": "yes",
+      "statusFull": "Світло є"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "11.11.2025",
+      "groupKey": "GPV6.2",
+      "groupName": "Черга 6.2",
+      "begin": "23:00",
+      "end": "24:00",
+      "status": "no",
+      "statusFull": "Світла немає"
     }
   ]
 }
