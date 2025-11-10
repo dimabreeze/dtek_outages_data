@@ -7,6 +7,17 @@
       "groupKey": "GPV1.1",
       "groupName": "Черга 1.1",
       "begin": "00:00",
+      "end": "01:00",
+      "status": "yes",
+      "statusFull": "Світло є"
+    },
+    {
+      "updatedOn": "2025-11-10T18:12:00.000Z",
+      "todayDate": "10.11.2025",
+      "targetDate": "10.11.2025",
+      "groupKey": "GPV1.1",
+      "groupName": "Черга 1.1",
+      "begin": "01:00",
       "end": "02:00",
       "status": "no",
       "statusFull": "Світла немає"
