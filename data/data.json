@@ -1,674 +1,679 @@
-[
-  {
-    "updatedOn": "2025-11-11T18:12:00.000Z",
-    "date": "2025-11-12",
-    "groupKey": "GPV1.1",
-    "groupName": "Черга 1.1",
-    "status": "",
-    "slots": [
-      {
-        "begin": "00:00",
-        "end": "02:30",
-        "status": "yes",
-        "statusFull": "Світло є"
-      },
-      {
-        "begin": "02:30",
-        "end": "06:30",
-        "status": "no",
-        "statusFull": "Світла немає"
-      },
-      {
-        "begin": "06:30",
-        "end": "13:00",
-        "status": "yes",
-        "statusFull": "Світло є"
-      },
-      {
-        "begin": "13:00",
-        "end": "17:00",
-        "status": "no",
-        "statusFull": "Світла немає"
-      },
-      {
-        "begin": "17:00",
-        "end": "23:30",
-        "status": "yes",
-        "statusFull": "Світло є"
-      },
-      {
-        "begin": "23:30",
-        "end": "24:00",
-        "status": "no",
-        "statusFull": "Світла немає"
-      }
-    ]
-  },
-  {
-    "updatedOn": "2025-11-11T18:12:00.000Z",
-    "date": "2025-11-12",
-    "groupKey": "GPV1.2",
-    "groupName": "Черга 1.2",
-    "status": "",
-    "slots": [
-      {
-        "begin": "00:00",
-        "end": "02:30",
-        "status": "yes",
-        "statusFull": "Світло є"
-      },
-      {
-        "begin": "02:30",
-        "end": "06:30",
-        "status": "no",
-        "statusFull": "Світла немає"
-      },
-      {
-        "begin": "06:30",
-        "end": "13:00",
-        "status": "yes",
-        "statusFull": "Світло є"
-      },
-      {
-        "begin": "13:00",
-        "end": "17:00",
-        "status": "no",
-        "statusFull": "Світла немає"
-      },
-      {
-        "begin": "17:00",
-        "end": "23:30",
-        "status": "yes",
-        "statusFull": "Світло є"
-      },
-      {
-        "begin": "23:30",
-        "end": "24:00",
-        "status": "no",
-        "statusFull": "Світла немає"
-      }
-    ]
-  },
-  {
-    "updatedOn": "2025-11-11T18:12:00.000Z",
-    "date": "2025-11-12",
-    "groupKey": "GPV2.1",
-    "groupName": "Черга 2.1",
-    "status": "",
-    "slots": [
-      {
-        "begin": "00:00",
-        "end": "02:30",
-        "status": "yes",
-        "statusFull": "Світло є"
-      },
-      {
-        "begin": "02:30",
-        "end": "06:30",
-        "status": "no",
-        "statusFull": "Світла немає"
-      },
-      {
-        "begin": "06:30",
-        "end": "13:00",
-        "status": "yes",
-        "statusFull": "Світло є"
-      },
-      {
-        "begin": "13:00",
-        "end": "17:00",
-        "status": "no",
-        "statusFull": "Світла немає"
-      },
-      {
-        "begin": "17:00",
-        "end": "23:30",
-        "status": "yes",
-        "statusFull": "Світло є"
-      },
-      {
-        "begin": "23:30",
-        "end": "24:00",
-        "status": "no",
-        "statusFull": "Світла немає"
-      }
-    ]
-  },
-  {
-    "updatedOn": "2025-11-11T18:12:00.000Z",
-    "date": "2025-11-12",
-    "groupKey": "GPV2.2",
-    "groupName": "Черга 2.2",
-    "status": "",
-    "slots": [
-      {
-        "begin": "00:00",
-        "end": "02:30",
-        "status": "yes",
-        "statusFull": "Світло є"
-      },
-      {
-        "begin": "02:30",
-        "end": "06:30",
-        "status": "no",
-        "statusFull": "Світла немає"
-      },
-      {
-        "begin": "06:30",
-        "end": "13:00",
-        "status": "yes",
-        "statusFull": "Світло є"
-      },
-      {
-        "begin": "13:00",
-        "end": "17:00",
-        "status": "no",
-        "statusFull": "Світла немає"
-      },
-      {
-        "begin": "17:00",
-        "end": "23:30",
-        "status": "yes",
-        "statusFull": "Світло є"
-      },
-      {
-        "begin": "23:30",
-        "end": "24:00",
-        "status": "no",
-        "statusFull": "Світла немає"
-      }
-    ]
-  },
-  {
-    "updatedOn": "2025-11-11T18:12:00.000Z",
-    "date": "2025-11-12",
-    "groupKey": "GPV3.1",
-    "groupName": "Черга 3.1",
-    "status": "",
-    "slots": [
-      {
-        "begin": "00:00",
-        "end": "06:00",
-        "status": "yes",
-        "statusFull": "Світло є"
-      },
-      {
-        "begin": "06:00",
-        "end": "10:00",
-        "status": "no",
-        "statusFull": "Світла немає"
-      },
-      {
-        "begin": "10:00",
-        "end": "16:30",
-        "status": "yes",
-        "statusFull": "Світло є"
-      },
-      {
-        "begin": "16:30",
-        "end": "20:30",
-        "status": "no",
-        "statusFull": "Світла немає"
-      },
-      {
-        "begin": "20:30",
-        "end": "24:00",
-        "status": "yes",
-        "statusFull": "Світло є"
-      }
-    ]
-  },
-  {
-    "updatedOn": "2025-11-11T18:12:00.000Z",
-    "date": "2025-11-12",
-    "groupKey": "GPV3.2",
-    "groupName": "Черга 3.2",
-    "status": "",
-    "slots": [
-      {
-        "begin": "00:00",
-        "end": "06:00",
-        "status": "yes",
-        "statusFull": "Світло є"
-      },
-      {
-        "begin": "06:00",
-        "end": "10:00",
-        "status": "no",
-        "statusFull": "Світла немає"
-      },
-      {
-        "begin": "10:00",
-        "end": "16:30",
-        "status": "yes",
-        "statusFull": "Світло є"
-      },
-      {
-        "begin": "16:30",
-        "end": "20:30",
-        "status": "no",
-        "statusFull": "Світла немає"
-      },
-      {
-        "begin": "20:30",
-        "end": "24:00",
-        "status": "yes",
-        "statusFull": "Світло є"
-      }
-    ]
-  },
-  {
-    "updatedOn": "2025-11-11T18:12:00.000Z",
-    "date": "2025-11-12",
-    "groupKey": "GPV4.1",
-    "groupName": "Черга 4.1",
-    "status": "",
-    "slots": [
-      {
-        "begin": "00:00",
-        "end": "06:00",
-        "status": "yes",
-        "statusFull": "Світло є"
-      },
-      {
-        "begin": "06:00",
-        "end": "10:00",
-        "status": "no",
-        "statusFull": "Світла немає"
-      },
-      {
-        "begin": "10:00",
-        "end": "16:30",
-        "status": "yes",
-        "statusFull": "Світло є"
-      },
-      {
-        "begin": "16:30",
-        "end": "20:30",
-        "status": "no",
-        "statusFull": "Світла немає"
-      },
-      {
-        "begin": "20:30",
-        "end": "24:00",
-        "status": "yes",
-        "statusFull": "Світло є"
-      }
-    ]
-  },
-  {
-    "updatedOn": "2025-11-11T18:12:00.000Z",
-    "date": "2025-11-12",
-    "groupKey": "GPV4.2",
-    "groupName": "Черга 4.2",
-    "status": "",
-    "slots": [
-      {
-        "begin": "00:00",
-        "end": "06:00",
-        "status": "yes",
-        "statusFull": "Світло є"
-      },
-      {
-        "begin": "06:00",
-        "end": "10:00",
-        "status": "no",
-        "statusFull": "Світла немає"
-      },
-      {
-        "begin": "10:00",
-        "end": "16:30",
-        "status": "yes",
-        "statusFull": "Світло є"
-      },
-      {
-        "begin": "16:30",
-        "end": "20:30",
-        "status": "no",
-        "statusFull": "Світла немає"
-      },
-      {
-        "begin": "20:30",
-        "end": "24:00",
-        "status": "yes",
-        "statusFull": "Світло є"
-      }
-    ]
-  },
-  {
-    "updatedOn": "2025-11-11T18:12:00.000Z",
-    "date": "2025-11-12",
-    "groupKey": "GPV5.1",
-    "groupName": "Черга 5.1",
-    "status": "",
-    "slots": [
-      {
-        "begin": "00:00",
-        "end": "03:00",
-        "status": "no",
-        "statusFull": "Світла немає"
-      },
-      {
-        "begin": "03:00",
-        "end": "09:30",
-        "status": "yes",
-        "statusFull": "Світло є"
-      },
-      {
-        "begin": "09:30",
-        "end": "13:30",
-        "status": "no",
-        "statusFull": "Світла немає"
-      },
-      {
-        "begin": "13:30",
-        "end": "20:00",
-        "status": "yes",
-        "statusFull": "Світло є"
-      },
-      {
-        "begin": "20:00",
-        "end": "24:00",
-        "status": "no",
-        "statusFull": "Світла немає"
-      }
-    ]
-  },
-  {
-    "updatedOn": "2025-11-11T18:12:00.000Z",
-    "date": "2025-11-12",
-    "groupKey": "GPV5.2",
-    "groupName": "Черга 5.2",
-    "status": "",
-    "slots": [
-      {
-        "begin": "00:00",
-        "end": "03:00",
-        "status": "no",
-        "statusFull": "Світла немає"
-      },
-      {
-        "begin": "03:00",
-        "end": "09:30",
-        "status": "yes",
-        "statusFull": "Світло є"
-      },
-      {
-        "begin": "09:30",
-        "end": "13:30",
-        "status": "no",
-        "statusFull": "Світла немає"
-      },
-      {
-        "begin": "13:30",
-        "end": "20:00",
-        "status": "yes",
-        "statusFull": "Світло є"
-      },
-      {
-        "begin": "20:00",
-        "end": "24:00",
-        "status": "no",
-        "statusFull": "Світла немає"
-      }
-    ]
-  },
-  {
-    "updatedOn": "2025-11-11T18:12:00.000Z",
-    "date": "2025-11-12",
-    "groupKey": "GPV6.1",
-    "groupName": "Черга 6.1",
-    "status": "",
-    "slots": [
-      {
-        "begin": "00:00",
-        "end": "03:00",
-        "status": "no",
-        "statusFull": "Світла немає"
-      },
-      {
-        "begin": "03:00",
-        "end": "09:30",
-        "status": "yes",
-        "statusFull": "Світло є"
-      },
-      {
-        "begin": "09:30",
-        "end": "13:30",
-        "status": "no",
-        "statusFull": "Світла немає"
-      },
-      {
-        "begin": "13:30",
-        "end": "20:00",
-        "status": "yes",
-        "statusFull": "Світло є"
-      },
-      {
-        "begin": "20:00",
-        "end": "24:00",
-        "status": "no",
-        "statusFull": "Світла немає"
-      }
-    ]
-  },
-  {
-    "updatedOn": "2025-11-11T18:12:00.000Z",
-    "date": "2025-11-12",
-    "groupKey": "GPV6.2",
-    "groupName": "Черга 6.2",
-    "status": "",
-    "slots": [
-      {
-        "begin": "00:00",
-        "end": "03:00",
-        "status": "no",
-        "statusFull": "Світла немає"
-      },
-      {
-        "begin": "03:00",
-        "end": "09:30",
-        "status": "yes",
-        "statusFull": "Світло є"
-      },
-      {
-        "begin": "09:30",
-        "end": "13:30",
-        "status": "no",
-        "statusFull": "Світла немає"
-      },
-      {
-        "begin": "13:30",
-        "end": "20:00",
-        "status": "yes",
-        "statusFull": "Світло є"
-      },
-      {
-        "begin": "20:00",
-        "end": "24:00",
-        "status": "no",
-        "statusFull": "Світла немає"
-      }
-    ]
-  },
-  {
-    "updatedOn": "2025-11-11T18:12:00.000Z",
-    "date": "2025-11-13",
-    "groupKey": "GPV1.1",
-    "groupName": "Черга 1.1",
-    "status": "",
-    "slots": [
-      {
-        "begin": "00:00",
-        "end": "24:00",
-        "status": "yes",
-        "statusFull": "Світло є"
-      }
-    ]
-  },
-  {
-    "updatedOn": "2025-11-11T18:12:00.000Z",
-    "date": "2025-11-13",
-    "groupKey": "GPV1.2",
-    "groupName": "Черга 1.2",
-    "status": "",
-    "slots": [
-      {
-        "begin": "00:00",
-        "end": "24:00",
-        "status": "yes",
-        "statusFull": "Світло є"
-      }
-    ]
-  },
-  {
-    "updatedOn": "2025-11-11T18:12:00.000Z",
-    "date": "2025-11-13",
-    "groupKey": "GPV2.1",
-    "groupName": "Черга 2.1",
-    "status": "",
-    "slots": [
-      {
-        "begin": "00:00",
-        "end": "24:00",
-        "status": "yes",
-        "statusFull": "Світло є"
-      }
-    ]
-  },
-  {
-    "updatedOn": "2025-11-11T18:12:00.000Z",
-    "date": "2025-11-13",
-    "groupKey": "GPV2.2",
-    "groupName": "Черга 2.2",
-    "status": "",
-    "slots": [
-      {
-        "begin": "00:00",
-        "end": "24:00",
-        "status": "yes",
-        "statusFull": "Світло є"
-      }
-    ]
-  },
-  {
-    "updatedOn": "2025-11-11T18:12:00.000Z",
-    "date": "2025-11-13",
-    "groupKey": "GPV3.1",
-    "groupName": "Черга 3.1",
-    "status": "",
-    "slots": [
-      {
-        "begin": "00:00",
-        "end": "24:00",
-        "status": "yes",
-        "statusFull": "Світло є"
-      }
-    ]
-  },
-  {
-    "updatedOn": "2025-11-11T18:12:00.000Z",
-    "date": "2025-11-13",
-    "groupKey": "GPV3.2",
-    "groupName": "Черга 3.2",
-    "status": "",
-    "slots": [
-      {
-        "begin": "00:00",
-        "end": "24:00",
-        "status": "yes",
-        "statusFull": "Світло є"
-      }
-    ]
-  },
-  {
-    "updatedOn": "2025-11-11T18:12:00.000Z",
-    "date": "2025-11-13",
-    "groupKey": "GPV4.1",
-    "groupName": "Черга 4.1",
-    "status": "",
-    "slots": [
-      {
-        "begin": "00:00",
-        "end": "24:00",
-        "status": "yes",
-        "statusFull": "Світло є"
-      }
-    ]
-  },
-  {
-    "updatedOn": "2025-11-11T18:12:00.000Z",
-    "date": "2025-11-13",
-    "groupKey": "GPV4.2",
-    "groupName": "Черга 4.2",
-    "status": "",
-    "slots": [
-      {
-        "begin": "00:00",
-        "end": "24:00",
-        "status": "yes",
-        "statusFull": "Світло є"
-      }
-    ]
-  },
-  {
-    "updatedOn": "2025-11-11T18:12:00.000Z",
-    "date": "2025-11-13",
-    "groupKey": "GPV5.1",
-    "groupName": "Черга 5.1",
-    "status": "",
-    "slots": [
-      {
-        "begin": "00:00",
-        "end": "24:00",
-        "status": "yes",
-        "statusFull": "Світло є"
-      }
-    ]
-  },
-  {
-    "updatedOn": "2025-11-11T18:12:00.000Z",
-    "date": "2025-11-13",
-    "groupKey": "GPV5.2",
-    "groupName": "Черга 5.2",
-    "status": "",
-    "slots": [
-      {
-        "begin": "00:00",
-        "end": "24:00",
-        "status": "yes",
-        "statusFull": "Світло є"
-      }
-    ]
-  },
-  {
-    "updatedOn": "2025-11-11T18:12:00.000Z",
-    "date": "2025-11-13",
-    "groupKey": "GPV6.1",
-    "groupName": "Черга 6.1",
-    "status": "",
-    "slots": [
-      {
-        "begin": "00:00",
-        "end": "24:00",
-        "status": "yes",
-        "statusFull": "Світло є"
-      }
-    ]
-  },
-  {
-    "updatedOn": "2025-11-11T18:12:00.000Z",
-    "date": "2025-11-13",
-    "groupKey": "GPV6.2",
-    "groupName": "Черга 6.2",
-    "status": "",
-    "slots": [
-      {
-        "begin": "00:00",
-        "end": "24:00",
-        "status": "yes",
-        "statusFull": "Світло є"
-      }
-    ]
-  }
-]
+{
+  "updatedOn": "2025-11-11T18:12:00.000Z",
+  "today": "2025-11-12",
+  "data": [
+    {
+      "updatedOn": "2025-11-11T18:12:00.000Z",
+      "date": "2025-11-12",
+      "groupKey": "GPV1.1",
+      "groupName": "Черга 1.1",
+      "status": "",
+      "slots": [
+        {
+          "begin": "00:00",
+          "end": "02:30",
+          "status": "yes",
+          "statusFull": "Світло є"
+        },
+        {
+          "begin": "02:30",
+          "end": "06:30",
+          "status": "no",
+          "statusFull": "Світла немає"
+        },
+        {
+          "begin": "06:30",
+          "end": "13:00",
+          "status": "yes",
+          "statusFull": "Світло є"
+        },
+        {
+          "begin": "13:00",
+          "end": "17:00",
+          "status": "no",
+          "statusFull": "Світла немає"
+        },
+        {
+          "begin": "17:00",
+          "end": "23:30",
+          "status": "yes",
+          "statusFull": "Світло є"
+        },
+        {
+          "begin": "23:30",
+          "end": "24:00",
+          "status": "no",
+          "statusFull": "Світла немає"
+        }
+      ]
+    },
+    {
+      "updatedOn": "2025-11-11T18:12:00.000Z",
+      "date": "2025-11-12",
+      "groupKey": "GPV1.2",
+      "groupName": "Черга 1.2",
+      "status": "",
+      "slots": [
+        {
+          "begin": "00:00",
+          "end": "02:30",
+          "status": "yes",
+          "statusFull": "Світло є"
+        },
+        {
+          "begin": "02:30",
+          "end": "06:30",
+          "status": "no",
+          "statusFull": "Світла немає"
+        },
+        {
+          "begin": "06:30",
+          "end": "13:00",
+          "status": "yes",
+          "statusFull": "Світло є"
+        },
+        {
+          "begin": "13:00",
+          "end": "17:00",
+          "status": "no",
+          "statusFull": "Світла немає"
+        },
+        {
+          "begin": "17:00",
+          "end": "23:30",
+          "status": "yes",
+          "statusFull": "Світло є"
+        },
+        {
+          "begin": "23:30",
+          "end": "24:00",
+          "status": "no",
+          "statusFull": "Світла немає"
+        }
+      ]
+    },
+    {
+      "updatedOn": "2025-11-11T18:12:00.000Z",
+      "date": "2025-11-12",
+      "groupKey": "GPV2.1",
+      "groupName": "Черга 2.1",
+      "status": "",
+      "slots": [
+        {
+          "begin": "00:00",
+          "end": "02:30",
+          "status": "yes",
+          "statusFull": "Світло є"
+        },
+        {
+          "begin": "02:30",
+          "end": "06:30",
+          "status": "no",
+          "statusFull": "Світла немає"
+        },
+        {
+          "begin": "06:30",
+          "end": "13:00",
+          "status": "yes",
+          "statusFull": "Світло є"
+        },
+        {
+          "begin": "13:00",
+          "end": "17:00",
+          "status": "no",
+          "statusFull": "Світла немає"
+        },
+        {
+          "begin": "17:00",
+          "end": "23:30",
+          "status": "yes",
+          "statusFull": "Світло є"
+        },
+        {
+          "begin": "23:30",
+          "end": "24:00",
+          "status": "no",
+          "statusFull": "Світла немає"
+        }
+      ]
+    },
+    {
+      "updatedOn": "2025-11-11T18:12:00.000Z",
+      "date": "2025-11-12",
+      "groupKey": "GPV2.2",
+      "groupName": "Черга 2.2",
+      "status": "",
+      "slots": [
+        {
+          "begin": "00:00",
+          "end": "02:30",
+          "status": "yes",
+          "statusFull": "Світло є"
+        },
+        {
+          "begin": "02:30",
+          "end": "06:30",
+          "status": "no",
+          "statusFull": "Світла немає"
+        },
+        {
+          "begin": "06:30",
+          "end": "13:00",
+          "status": "yes",
+          "statusFull": "Світло є"
+        },
+        {
+          "begin": "13:00",
+          "end": "17:00",
+          "status": "no",
+          "statusFull": "Світла немає"
+        },
+        {
+          "begin": "17:00",
+          "end": "23:30",
+          "status": "yes",
+          "statusFull": "Світло є"
+        },
+        {
+          "begin": "23:30",
+          "end": "24:00",
+          "status": "no",
+          "statusFull": "Світла немає"
+        }
+      ]
+    },
+    {
+      "updatedOn": "2025-11-11T18:12:00.000Z",
+      "date": "2025-11-12",
+      "groupKey": "GPV3.1",
+      "groupName": "Черга 3.1",
+      "status": "",
+      "slots": [
+        {
+          "begin": "00:00",
+          "end": "06:00",
+          "status": "yes",
+          "statusFull": "Світло є"
+        },
+        {
+          "begin": "06:00",
+          "end": "10:00",
+          "status": "no",
+          "statusFull": "Світла немає"
+        },
+        {
+          "begin": "10:00",
+          "end": "16:30",
+          "status": "yes",
+          "statusFull": "Світло є"
+        },
+        {
+          "begin": "16:30",
+          "end": "20:30",
+          "status": "no",
+          "statusFull": "Світла немає"
+        },
+        {
+          "begin": "20:30",
+          "end": "24:00",
+          "status": "yes",
+          "statusFull": "Світло є"
+        }
+      ]
+    },
+    {
+      "updatedOn": "2025-11-11T18:12:00.000Z",
+      "date": "2025-11-12",
+      "groupKey": "GPV3.2",
+      "groupName": "Черга 3.2",
+      "status": "",
+      "slots": [
+        {
+          "begin": "00:00",
+          "end": "06:00",
+          "status": "yes",
+          "statusFull": "Світло є"
+        },
+        {
+          "begin": "06:00",
+          "end": "10:00",
+          "status": "no",
+          "statusFull": "Світла немає"
+        },
+        {
+          "begin": "10:00",
+          "end": "16:30",
+          "status": "yes",
+          "statusFull": "Світло є"
+        },
+        {
+          "begin": "16:30",
+          "end": "20:30",
+          "status": "no",
+          "statusFull": "Світла немає"
+        },
+        {
+          "begin": "20:30",
+          "end": "24:00",
+          "status": "yes",
+          "statusFull": "Світло є"
+        }
+      ]
+    },
+    {
+      "updatedOn": "2025-11-11T18:12:00.000Z",
+      "date": "2025-11-12",
+      "groupKey": "GPV4.1",
+      "groupName": "Черга 4.1",
+      "status": "",
+      "slots": [
+        {
+          "begin": "00:00",
+          "end": "06:00",
+          "status": "yes",
+          "statusFull": "Світло є"
+        },
+        {
+          "begin": "06:00",
+          "end": "10:00",
+          "status": "no",
+          "statusFull": "Світла немає"
+        },
+        {
+          "begin": "10:00",
+          "end": "16:30",
+          "status": "yes",
+          "statusFull": "Світло є"
+        },
+        {
+          "begin": "16:30",
+          "end": "20:30",
+          "status": "no",
+          "statusFull": "Світла немає"
+        },
+        {
+          "begin": "20:30",
+          "end": "24:00",
+          "status": "yes",
+          "statusFull": "Світло є"
+        }
+      ]
+    },
+    {
+      "updatedOn": "2025-11-11T18:12:00.000Z",
+      "date": "2025-11-12",
+      "groupKey": "GPV4.2",
+      "groupName": "Черга 4.2",
+      "status": "",
+      "slots": [
+        {
+          "begin": "00:00",
+          "end": "06:00",
+          "status": "yes",
+          "statusFull": "Світло є"
+        },
+        {
+          "begin": "06:00",
+          "end": "10:00",
+          "status": "no",
+          "statusFull": "Світла немає"
+        },
+        {
+          "begin": "10:00",
+          "end": "16:30",
+          "status": "yes",
+          "statusFull": "Світло є"
+        },
+        {
+          "begin": "16:30",
+          "end": "20:30",
+          "status": "no",
+          "statusFull": "Світла немає"
+        },
+        {
+          "begin": "20:30",
+          "end": "24:00",
+          "status": "yes",
+          "statusFull": "Світло є"
+        }
+      ]
+    },
+    {
+      "updatedOn": "2025-11-11T18:12:00.000Z",
+      "date": "2025-11-12",
+      "groupKey": "GPV5.1",
+      "groupName": "Черга 5.1",
+      "status": "",
+      "slots": [
+        {
+          "begin": "00:00",
+          "end": "03:00",
+          "status": "no",
+          "statusFull": "Світла немає"
+        },
+        {
+          "begin": "03:00",
+          "end": "09:30",
+          "status": "yes",
+          "statusFull": "Світло є"
+        },
+        {
+          "begin": "09:30",
+          "end": "13:30",
+          "status": "no",
+          "statusFull": "Світла немає"
+        },
+        {
+          "begin": "13:30",
+          "end": "20:00",
+          "status": "yes",
+          "statusFull": "Світло є"
+        },
+        {
+          "begin": "20:00",
+          "end": "24:00",
+          "status": "no",
+          "statusFull": "Світла немає"
+        }
+      ]
+    },
+    {
+      "updatedOn": "2025-11-11T18:12:00.000Z",
+      "date": "2025-11-12",
+      "groupKey": "GPV5.2",
+      "groupName": "Черга 5.2",
+      "status": "",
+      "slots": [
+        {
+          "begin": "00:00",
+          "end": "03:00",
+          "status": "no",
+          "statusFull": "Світла немає"
+        },
+        {
+          "begin": "03:00",
+          "end": "09:30",
+          "status": "yes",
+          "statusFull": "Світло є"
+        },
+        {
+          "begin": "09:30",
+          "end": "13:30",
+          "status": "no",
+          "statusFull": "Світла немає"
+        },
+        {
+          "begin": "13:30",
+          "end": "20:00",
+          "status": "yes",
+          "statusFull": "Світло є"
+        },
+        {
+          "begin": "20:00",
+          "end": "24:00",
+          "status": "no",
+          "statusFull": "Світла немає"
+        }
+      ]
+    },
+    {
+      "updatedOn": "2025-11-11T18:12:00.000Z",
+      "date": "2025-11-12",
+      "groupKey": "GPV6.1",
+      "groupName": "Черга 6.1",
+      "status": "",
+      "slots": [
+        {
+          "begin": "00:00",
+          "end": "03:00",
+          "status": "no",
+          "statusFull": "Світла немає"
+        },
+        {
+          "begin": "03:00",
+          "end": "09:30",
+          "status": "yes",
+          "statusFull": "Світло є"
+        },
+        {
+          "begin": "09:30",
+          "end": "13:30",
+          "status": "no",
+          "statusFull": "Світла немає"
+        },
+        {
+          "begin": "13:30",
+          "end": "20:00",
+          "status": "yes",
+          "statusFull": "Світло є"
+        },
+        {
+          "begin": "20:00",
+          "end": "24:00",
+          "status": "no",
+          "statusFull": "Світла немає"
+        }
+      ]
+    },
+    {
+      "updatedOn": "2025-11-11T18:12:00.000Z",
+      "date": "2025-11-12",
+      "groupKey": "GPV6.2",
+      "groupName": "Черга 6.2",
+      "status": "",
+      "slots": [
+        {
+          "begin": "00:00",
+          "end": "03:00",
+          "status": "no",
+          "statusFull": "Світла немає"
+        },
+        {
+          "begin": "03:00",
+          "end": "09:30",
+          "status": "yes",
+          "statusFull": "Світло є"
+        },
+        {
+          "begin": "09:30",
+          "end": "13:30",
+          "status": "no",
+          "statusFull": "Світла немає"
+        },
+        {
+          "begin": "13:30",
+          "end": "20:00",
+          "status": "yes",
+          "statusFull": "Світло є"
+        },
+        {
+          "begin": "20:00",
+          "end": "24:00",
+          "status": "no",
+          "statusFull": "Світла немає"
+        }
+      ]
+    },
+    {
+      "updatedOn": "2025-11-11T18:12:00.000Z",
+      "date": "2025-11-13",
+      "groupKey": "GPV1.1",
+      "groupName": "Черга 1.1",
+      "status": "",
+      "slots": [
+        {
+          "begin": "00:00",
+          "end": "24:00",
+          "status": "yes",
+          "statusFull": "Світло є"
+        }
+      ]
+    },
+    {
+      "updatedOn": "2025-11-11T18:12:00.000Z",
+      "date": "2025-11-13",
+      "groupKey": "GPV1.2",
+      "groupName": "Черга 1.2",
+      "status": "",
+      "slots": [
+        {
+          "begin": "00:00",
+          "end": "24:00",
+          "status": "yes",
+          "statusFull": "Світло є"
+        }
+      ]
+    },
+    {
+      "updatedOn": "2025-11-11T18:12:00.000Z",
+      "date": "2025-11-13",
+      "groupKey": "GPV2.1",
+      "groupName": "Черга 2.1",
+      "status": "",
+      "slots": [
+        {
+          "begin": "00:00",
+          "end": "24:00",
+          "status": "yes",
+          "statusFull": "Світло є"
+        }
+      ]
+    },
+    {
+      "updatedOn": "2025-11-11T18:12:00.000Z",
+      "date": "2025-11-13",
+      "groupKey": "GPV2.2",
+      "groupName": "Черга 2.2",
+      "status": "",
+      "slots": [
+        {
+          "begin": "00:00",
+          "end": "24:00",
+          "status": "yes",
+          "statusFull": "Світло є"
+        }
+      ]
+    },
+    {
+      "updatedOn": "2025-11-11T18:12:00.000Z",
+      "date": "2025-11-13",
+      "groupKey": "GPV3.1",
+      "groupName": "Черга 3.1",
+      "status": "",
+      "slots": [
+        {
+          "begin": "00:00",
+          "end": "24:00",
+          "status": "yes",
+          "statusFull": "Світло є"
+        }
+      ]
+    },
+    {
+      "updatedOn": "2025-11-11T18:12:00.000Z",
+      "date": "2025-11-13",
+      "groupKey": "GPV3.2",
+      "groupName": "Черга 3.2",
+      "status": "",
+      "slots": [
+        {
+          "begin": "00:00",
+          "end": "24:00",
+          "status": "yes",
+          "statusFull": "Світло є"
+        }
+      ]
+    },
+    {
+      "updatedOn": "2025-11-11T18:12:00.000Z",
+      "date": "2025-11-13",
+      "groupKey": "GPV4.1",
+      "groupName": "Черга 4.1",
+      "status": "",
+      "slots": [
+        {
+          "begin": "00:00",
+          "end": "24:00",
+          "status": "yes",
+          "statusFull": "Світло є"
+        }
+      ]
+    },
+    {
+      "updatedOn": "2025-11-11T18:12:00.000Z",
+      "date": "2025-11-13",
+      "groupKey": "GPV4.2",
+      "groupName": "Черга 4.2",
+      "status": "",
+      "slots": [
+        {
+          "begin": "00:00",
+          "end": "24:00",
+          "status": "yes",
+          "statusFull": "Світло є"
+        }
+      ]
+    },
+    {
+      "updatedOn": "2025-11-11T18:12:00.000Z",
+      "date": "2025-11-13",
+      "groupKey": "GPV5.1",
+      "groupName": "Черга 5.1",
+      "status": "",
+      "slots": [
+        {
+          "begin": "00:00",
+          "end": "24:00",
+          "status": "yes",
+          "statusFull": "Світло є"
+        }
+      ]
+    },
+    {
+      "updatedOn": "2025-11-11T18:12:00.000Z",
+      "date": "2025-11-13",
+      "groupKey": "GPV5.2",
+      "groupName": "Черга 5.2",
+      "status": "",
+      "slots": [
+        {
+          "begin": "00:00",
+          "end": "24:00",
+          "status": "yes",
+          "statusFull": "Світло є"
+        }
+      ]
+    },
+    {
+      "updatedOn": "2025-11-11T18:12:00.000Z",
+      "date": "2025-11-13",
+      "groupKey": "GPV6.1",
+      "groupName": "Черга 6.1",
+      "status": "",
+      "slots": [
+        {
+          "begin": "00:00",
+          "end": "24:00",
+          "status": "yes",
+          "statusFull": "Світло є"
+        }
+      ]
+    },
+    {
+      "updatedOn": "2025-11-11T18:12:00.000Z",
+      "date": "2025-11-13",
+      "groupKey": "GPV6.2",
+      "groupName": "Черга 6.2",
+      "status": "",
+      "slots": [
+        {
+          "begin": "00:00",
+          "end": "24:00",
+          "status": "yes",
+          "statusFull": "Світло є"
+        }
+      ]
+    }
+  ],
+  "maxDBUpdatedOn": "2025-11-11T18:12:00.000Z"
+}
